@@ -1,2 +1,2 @@
 day 1 practicepracticing git modifications
-task-pull changes from github
+task pull changes from github
